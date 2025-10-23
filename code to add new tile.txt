@@ -1,0 +1,9 @@
+<!-- CARD TEMPLATE - Copy and modify this block to add new cards -->
+<div class="card-item">
+    <div class="card-image" onclick="openCardLink('YOUR_LINK_HERE')">
+        <img src="YOUR_IMAGE_FILENAME.jpg" alt="Card Name">
+    </div>
+    <h3 class="card-name">Card Name</h3>
+    <p class="card-desc">Card description goes here</p>
+</div>
+<!-- END CARD TEMPLATE -->
